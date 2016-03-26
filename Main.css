@@ -1,0 +1,38 @@
+html, body {
+	display: left;
+	justify-content: left;
+	text-align: left;
+}
+
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: Yellow;
+	font-size: 32px;
+	text-align: left;
+}
+
+h2 {
+	color: Azure;
+	text-align: left;
+}
+
+.struggle {
+	<img src="http://us.battle.net/wow/en/character/emerald-dream/Strugglesnug/simple";
+}
+
+.quiche {
+
+}
+
+.bats {
+
+}
+
+.hero {
+	background-image: url("http://i.imgur.com/0F44uP5.png");
+	background-size: cover;
+	color: green;
+	padding: 250px o;
+	margin: 30px;
+}
+
